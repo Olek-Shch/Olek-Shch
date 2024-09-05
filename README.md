@@ -6,7 +6,7 @@
 - 🚀 Lubię pracować nad interesującymi projektami open-source i współpracować z innymi deweloperami.
 
 📫 **Jak się ze mną skontaktować:**
-- [📧 Email](alexshch09@gmail.com)
+- [📧 Email](mailto:alexshch09@gmail.com)
 - [🌐 LinkedIn](https://www.linkedin.com/in/olek-shchotkin-82290a30a)
 
 📊 **Statystyki GitHub:**  
