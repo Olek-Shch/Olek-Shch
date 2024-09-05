@@ -7,7 +7,7 @@
 
 📫 **Jak się ze mną skontaktować:**
 - [📧 Email](mailto:alexshch09@gmail.com)
-- [🌐 LinkedIn](https://www.linkedin.com/in/olek-shchotkin-82290a30a)
+- [🌐 LinkedIn](https://www.linkedin.com/in/oleksandr-shchotkin-22237028a)
 
 📊 **Statystyki GitHub:**  
   
