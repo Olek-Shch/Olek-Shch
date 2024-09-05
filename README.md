@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Cześć, jestem Olek Shchotkin!
 
-<!--
-**Olek-Shch/Olek-Shch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **O mnie:**
+- 💻 Pasjonuję się programowaniem i nowymi technologiami.
+- 🌱 Obecnie uczę się [React].
+- 🚀 Lubię pracować nad interesującymi projektami open-source i współpracować z innymi deweloperami.
 
-Here are some ideas to get you started:
+📫 **Jak się ze mną skontaktować:**
+- 📧 Email: [alexshch09@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/olek-shchotkin-82290a30a]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Statystyki GitHub:**
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Olek-Shch&show_icons=true&theme=radical)
+
+🌟 **Ulubione technologie:**
+- Języki Programowania: [Python, JavaScript]
+- Frameworki: [Flask, React, Tailwind CSS]
+- Narzędzia: [Git, Docker, VS Code]
+
+🎉 Dzięki, że zajrzałeś! Nie zapomnij zostawić ⭐️ na moich repozytoriach, jeśli coś ci się spodobało!
