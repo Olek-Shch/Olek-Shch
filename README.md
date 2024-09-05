@@ -15,7 +15,7 @@
 
 🌟 **Ulubione technologie:**
 - Języki Programowania: [Python, JavaScript]
-- Frameworki: [Flask, React, Tailwind CSS]
+- Frameworki: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - Narzędzia: [Git, Docker, VS Code]
 
 🎉 Dzięki, że zajrzałeś! Nie zapomnij zostawić ⭐️ na moich repozytoriach, jeśli coś ci się spodobało!
